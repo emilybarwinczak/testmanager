@@ -1,8 +1,3 @@
-const sayHello = "Hi it's me Emily!"
+const sayHello = "Hello it me steven!"
 
 console.log(sayHello)
-
-
-
-
-team mongeese ok
